@@ -4,3 +4,4 @@
 switched lwf
 Git is free software...
 switched  to a new branch 'issue-101'lwf
+git tag v1.0
